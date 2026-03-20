@@ -1,0 +1,24 @@
+Do these courses in order 
+
+
+
+https://gale.udemy.com/course/llm-engineering-master-ai-and-large-language-models/learn/lecture/52932169#overview (foundations)
+
+https://gale.udemy.com/course/the-complete-agentic-ai-engineering-course/learn/ (build)
+
+
+
+https://gale.udemy.com/course/generative-and-agentic-ai-in-production/learn/ (deploy)
+
+
+
+https://gale.udemy.com/course/executive-briefing-generative-ai-and-large-language-models-llm/learn/lecture/49462353#overview (optinal if you want to lead company)
+
+
+Optinal:
+
+https://gale.udemy.com/course/ai-coder-from-vibe-coder-to-agentic-engineer/learn/lecture/54779781#overview (no code projects)
+
+https://gale.udemy.com/course/ai-builder-with-n8n-create-agents-voice-agents/learn/lecture/54015621#overview (real world n8n projects)
+
+
