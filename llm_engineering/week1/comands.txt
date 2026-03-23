@@ -1,0 +1,5 @@
+run
+
+ uv self update 
+
+ uv sync
